@@ -78,3 +78,10 @@ body{
     color: crimson;
 }
 
+/*Logo*/
+.nav-wrapper > .left-side > .nav-link-logo{
+    color: crimson;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    margin-top: -0.65mm;
+}
